@@ -1,5 +1,3 @@
-# :book: [My Story](https://www.mikeyhuber.me/My-Story)
-
 ## :hammer_and_wrench: Skills
 
 <!-- https://github.com/Ileriayo/markdown-badges#markdown-badges -->
@@ -22,5 +20,4 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## :heavy_check_mark: Certifications
 

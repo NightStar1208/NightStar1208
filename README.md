@@ -24,4 +24,3 @@
 
 ## :heavy_check_mark: Certifications
 
-[![AWS Developer Associate](/dev.png)](https://www.credly.com/badges/4c5a6916-9679-4500-9eb8-e3042d073dd2/public_url)

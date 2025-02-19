@@ -1,7 +1,16 @@
 <h1 align="center">Hello World, I'm Sajib 👋</h1>
 <h2 align="center">Md Abu Bakkar Siddiqe Sajib</h1>
 <h2>💫Introduction </h2>
-🌱 As a dedicated Software Engineer with a strong foundation in backend development, I have consistently demonstrated proficiency in technologies such as NodeJS, NestJS, and Typescript. My expertise extends to designing and implementing RESTful APIs, optimizing database performance with MongoDB, and contributing to the development of scalable microservices within a Microservice Architecture. I have successfully integrated third-party APIs to enhance collaboration with industry leaders.<br/>
+🌱 I am a senior full-stack developer from Japan with over 7 years of experience.
+I have worked on projects of various scales and have utilized a wide range of skills from front-end to back-end.
+The technologies I mainly use include JavaScript, TypeScript, React, Node.js, Python, etc., and I select the most suitable technology for each project and develop it.
+On the front-end, I focus on UI/UX design and aim to build applications that are easy for users to use.
+On the back-end, I design and implement efficient and highly secure systems and build reliable infrastructure.
+Through my experience, I have been active not only as a team member but also as a project manager and leader.
+My strengths are my problem-solving ability and flexibility to quickly learn and adopt new technologies.
+Especially recently, I have been trying to improve the efficiency and speed of projects through the introduction of cloud services and DevOps.
+In the future, I would like to seek new challenges and become a developer who can provide more value while honing my skills.
+I look forward to working with you.<br/>
 <h3 align="left">Current Tech Stack:</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -51,47 +60,3 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 </p>
-
-<h1 align="center">📊 Github Summry</h1>
-
-<!-- <div align="center"> -->
-  
-<!-- <p align="center"> -->
-<!--     <a href="https://github.com/kokonior/github-readme-streak-stats"> -->
-<!--         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sajib's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=19sajib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> -->
-<!--     </a> -->
-<!-- </p> -->
-<!-- </div> -->
-   <br/>
-    <a href="https://github.com/19sajib">
- <img alt="Sajib's Github Stats" src="https://github-readme-stats.vercel.app/api?username=19sajib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="54%"  />
-</a>
-  <a href="https://github.com/19sajib">
- <img alt="Sajib's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sajib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="40%"  />
-</a>
-  <br/>
-
-<h1 align="center">📊 LeetCode Stats</h1>
-
-<div align="center">
-  
-<p align="center">
-    <a href="https://github.com/kokonior/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sajib's streak" src="https://leetcard.jacoblin.cool/19sajib?theme=dark&font=Syne%20Mono&ext=heatmap"/>
-    </a>
-</p>
- </div>
-
-## 👀 Views and Followers ❤
-<a href="https://github.com/19sajib">
-    <img src="https://komarev.com/ghpvc/?username=19sajib">
-</a>
-<a href="https://github.com/19sajib?tab=followers">
-<img src="https://img.shields.io/github/followers/19sajib?label=Followers&style=social" alt="GitHub Badge">
-</a>
-
-<br/>
-
-## 📫   How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/19sajib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/19sajib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15368718)
-

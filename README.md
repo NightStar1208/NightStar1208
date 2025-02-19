@@ -1,15 +1,7 @@
 <h1 align="center">Hello World, I'm Sajib 👋</h1>
 <h2 align="center">Md Abu Bakkar Siddiqe Sajib</h1>
 <h2>💫Introduction </h2>
-🌱 I am a senior full-stack developer from Japan with over 7 years of experience.
-I have worked on projects of various scales and have utilized a wide range of skills from front-end to back-end.
-The technologies I mainly use include JavaScript, TypeScript, React, Node.js, Python, etc., and I select the most suitable technology for each project and develop it.
-On the front-end, I focus on UI/UX design and aim to build applications that are easy for users to use.
-On the back-end, I design and implement efficient and highly secure systems and build reliable infrastructure.
-Through my experience, I have been active not only as a team member but also as a project manager and leader.
-My strengths are my problem-solving ability and flexibility to quickly learn and adopt new technologies.
-Especially recently, I have been trying to improve the efficiency and speed of projects through the introduction of cloud services and DevOps.
-In the future, I would like to seek new challenges and become a developer who can provide more value while honing my skills.
+🌱 I am a senior full-stack developer from Japan with over 7 years of experience. I have worked on projects of various scales and have utilized a wide range of skills from front-end to back-end.The technologies I mainly use include JavaScript, TypeScript, React, Node.js, Python, etc., and I select the most suitable technology for each project and develop it. On the front-end, I focus on UI/UX design and aim to build applications that are easy for users to use. On the back-end, I design and implement efficient and highly secure systems and build reliable infrastructure. Through my experience, I have been active not only as a team member but also as a project manager and leader. My strengths are my problem-solving ability and flexibility to quickly learn and adopt new technologies. Especially recently, I have been trying to improve the efficiency and speed of projects through the introduction of cloud services and DevOps. In the future, I would like to seek new challenges and become a developer who can provide more value while honing my skills.
 I look forward to working with you.<br/>
 <h3 align="left">Current Tech Stack:</h3>
 <p align="left"> 
@@ -27,7 +19,7 @@ I look forward to working with you.<br/>
  </p>
 
 <h2>🔧Career Objective </h2>
-⚡ Motivated by a desire to evolve into an architect-level backend engineer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of complex backend systems, implementing robust and scalable solutions that align with industry best practices.<br/>
+⚡ Motivated by a desire to evolve into an architect-level frll-stack developer, I am eager to leverage my current skills and continue expanding my knowledge. My goal is to lead in the design and development of UI/UX and complex backend systems, implementing robust and scalable solutions that align with industry best practices.<br/>
 <h3 align="left">Learning Queue:</h3>
 <p align="left">
  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
